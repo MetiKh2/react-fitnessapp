@@ -1,1 +1,1 @@
-https://metifitness.netlify.app Live site
+https://metifitness.netlify.app
